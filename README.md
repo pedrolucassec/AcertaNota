@@ -3,4 +3,4 @@
 
 <i>Bibliotecas Necessárias:</i>
 
-os<br>random<br>playsound
+<i>os<br>random<br>playsound</i>
