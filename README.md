@@ -1,6 +1,6 @@
 # AcertaNota
-Jogo de acertas as Notas do Violão/Guitarra
+<b>Jogo de acertar as Notas do Violão/Guitarra</b>
 
-Bibliotecas Necessárias:
+<i>Bibliotecas Necessárias:</i>
 
 os<br>random<br>playsound
